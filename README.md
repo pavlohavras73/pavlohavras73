@@ -19,7 +19,7 @@ I like owning the whole stack: the Linux server and its firewall, the backend an
 Server-authoritative game state, so nobody can cheat from the browser console.
 
 `FastAPI` `WebSockets` `vanilla JS` `SQLite` `Docker` `Caddy`
-[Live demo](https://promo-dev.duckdns.org/games/) · [Code](https://github.com/pavlohavras73/jarvis-games)
+[Live demo](https://promo-dev.duckdns.org/games/) · [Code](https://github.com/pavlohavras73/lobby-gg)
 
 </td>
 <td width="50%" valign="top">
