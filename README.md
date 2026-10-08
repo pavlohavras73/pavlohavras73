@@ -50,7 +50,7 @@ My own flight model: a Python reference implementation with golden tests, ported
 </td>
 <td width="50%" valign="top">
 
-**[Web showcase](https://pavlohavras73.github.io/#web)**: seven sites, designed and built by me
+**[Web showcase](https://pavlohavras73.github.io)**: seven sites, designed and built by me
 
 <a href="https://pavlohavras73.github.io"><img src="assets/web-showcase.jpg" alt="AeroFlux, Nexa AI and Quant Terminal landing pages"></a>
 
