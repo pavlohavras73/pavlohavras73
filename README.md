@@ -26,9 +26,9 @@ Server-authoritative game state, so nobody can cheat from the browser console.
 </td>
 <td width="50%" valign="top">
 
-**Jarvis**: my personal AI agent, running 24/7 on my own server
+**[Jarvis](https://github.com/pavlohavras73/ai-agent-jarvis)**: my personal AI agent, running 24/7 on my own server
 
-<img src="assets/jarvis.svg" alt="Jarvis architecture">
+<a href="https://github.com/pavlohavras73/ai-agent-jarvis"><img src="assets/jarvis.svg" alt="Jarvis architecture"></a>
 
 Telegram and real-time voice in, ~25 n8n workflows inside (morning briefing, market scanner, habit coach, night jobs). Requests are routed between cloud LLMs and local models on my GPU. Long-term memory is an Obsidian knowledge base with ~940 notes.
 
@@ -63,7 +63,7 @@ AeroFlux (FPV brand with a 3D drone), Nexa AI, Quant Terminal (live trading dash
 </tr>
 </table>
 
-Also: my own **Linux desktop shell** on Hyprland + AGS, with an AI command bar wired to Jarvis (`TypeScript` `GTK`), and an **honest backtester** for trading strategies with fees, slippage stress tests, look-ahead guards and walk-forward validation (`Python`).
+Also: my own **[Linux desktop shell](https://github.com/pavlohavras73/hyprland-ags-shell)** on Hyprland + AGS, with an AI command bar wired to Jarvis (`TypeScript` `GTK`), and an **honest backtester** for trading strategies with fees, slippage stress tests, look-ahead guards and walk-forward validation (`Python`).
 
 ---
 
