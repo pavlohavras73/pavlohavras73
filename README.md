@@ -66,10 +66,10 @@ Also: my own **Linux desktop shell** on Hyprland + AGS, with an AI command bar w
 
 #### Toolbox
 
-**Frontend:** TypeScript, JavaScript, HTML/CSS, three.js, GSAP, WebSockets
-**Backend:** Python, FastAPI, Node.js, SQLite / Postgres, Redis
-**AI & automation:** n8n, LLM APIs (Claude, Gemini), Ollama, MCP, Playwright, agentic coding
-**Ops:** Linux, Docker, Caddy, Git, CI, server hardening, backups
+- **Frontend:** TypeScript, JavaScript, HTML/CSS, three.js, GSAP, WebSockets
+- **Backend:** Python, FastAPI, Node.js, SQLite / Postgres, Redis
+- **AI & automation:** n8n, LLM APIs (Claude, Gemini), Ollama, MCP, Playwright, agentic coding
+- **Ops:** Linux, Docker, Caddy, Git, CI, server hardening, backups
 
 **Languages:** Ukrainian · Russian · English · German
 
