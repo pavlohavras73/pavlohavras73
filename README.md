@@ -3,6 +3,8 @@
 I build **AI agents and automation systems**, and the **frontends** people actually use.
 Self-taught developer and Computer Science student (V. N. Karazin Kharkiv National University), based in Duisburg, Germany. Open to work.
 
+**Portfolio:** [pavlohavras73.github.io](https://pavlohavras73.github.io)
+
 I like owning the whole stack: the Linux server and its firewall, the backend and the real-time protocol, down to the last pixel of the UI. Everything below runs on infrastructure I set up and maintain myself.
 
 ---
@@ -48,13 +50,14 @@ My own flight model: a Python reference implementation with golden tests, ported
 </td>
 <td width="50%" valign="top">
 
-**Web showcase**: three landing pages built from scratch
+**[Web showcase](https://pavlohavras73.github.io/#web)**: seven sites, designed and built by me
 
-<img src="assets/web-showcase.jpg" alt="AeroFlux, Nexa AI and Quant Terminal landing pages">
+<a href="https://pavlohavras73.github.io"><img src="assets/web-showcase.jpg" alt="AeroFlux, Nexa AI and Quant Terminal landing pages"></a>
 
-AeroFlux (FPV brand with a 3D drone), Nexa AI (SaaS landing) and Quant Terminal (live trading dashboard). Each was designed and coded by hand, with no templates.
+AeroFlux (FPV brand with a 3D drone), Nexa AI, Quant Terminal (live trading dashboard), plus four product concepts with full marketing sites and app screens: AutoMind, BotForge, VoxDesk, AeroRace.
 
-`HTML/CSS` `JavaScript` `three.js` `GSAP`
+`HTML/CSS` `JavaScript` `three.js` `GSAP` `Tailwind`
+[Open the showcase](https://pavlohavras73.github.io)
 
 </td>
 </tr>
