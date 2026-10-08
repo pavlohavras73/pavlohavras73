@@ -63,7 +63,7 @@ AeroFlux (FPV brand with a 3D drone), Nexa AI, Quant Terminal (live trading dash
 </tr>
 </table>
 
-Also: my own **[Linux desktop shell](https://github.com/pavlohavras73/hyprland-ags-shell)** on Hyprland + AGS, with an AI command bar wired to Jarvis (`TypeScript` `GTK`), and an **honest backtester** for trading strategies with fees, slippage stress tests, look-ahead guards and walk-forward validation (`Python`).
+Also: my own **[Linux desktop shell](https://github.com/pavlohavras73/hyprland-ags-shell)** on Hyprland + AGS, with an AI command bar wired to Jarvis (`TypeScript` `GTK`), and an **[honest backtester](https://github.com/pavlohavras73/honest-backtester)** for trading strategies with fees, slippage stress tests, look-ahead guards and walk-forward validation (`Python`).
 
 ---
 
