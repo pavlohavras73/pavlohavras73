@@ -39,9 +39,9 @@ Telegram and real-time voice in, ~25 n8n workflows inside (morning briefing, mar
 <tr>
 <td width="50%" valign="top">
 
-**FPV drone simulator**: physics first, flown with a real radio
+**[FPV drone simulator](https://github.com/pavlohavras73/fpvsim)**: physics first, flown with a real radio
 
-<img src="assets/fpvsim.jpg" alt="FPV simulator drone model">
+<a href="https://github.com/pavlohavras73/fpvsim"><img src="assets/fpvsim.jpg" alt="FPV simulator main menu"></a>
 
 My own flight model: a Python reference implementation with golden tests, ported to a C# engine. PID auto-tuner, battery sag, motor spin-up, procedural maps from a Blender pipeline. 8 drones modelled from manufacturer data, flown with a RadioMaster transmitter.
 
